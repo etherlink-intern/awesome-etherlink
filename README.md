@@ -88,7 +88,6 @@
 - **[Chainstack](https://chainstack.com)** - Enterprise-grade blockchain infrastructure platform
 - **[GetBlock](https://getblock.io)** - Reliable RPC node provider for Etherlink and Tezos with WebSocket support
 - **[NOWNodes](https://nownodes.io)** - Scalable blockchain infrastructure provide with high uptime for Etherlink
-- **[Spectrum](https://spectrum.fi)** - Node infrastructure and DeFi solutions
 - **[Zeeve](https://www.zeeve.io)** - Blockchain infrastructure as a service
 
 ## Developer Tools
@@ -98,12 +97,11 @@
 - **[Tezos Unity SDK](https://docs.tezos.com/unity)** - Unity SDK for blockchain integration with Etherlink support
 - **[Sequence](https://sequence.xyz)** - Gaming-focused wallet and infrastructure platform
 - **[Google Cloud](https://cloud.google.com)** - Cloud infrastructure for blockchain development
-- **[GroupFi](https://groupfi.xyz)** - Privacy-focused blockchain infrastructure
+- **[GroupFi](https://groupfi.ai)** - Privacy-focused blockchain infrastructure
 
 ### Smart Contract Development
 - **[Hardhat](https://hardhat.org)** - Ethereum development environment (supporting Etherlink)
 - **[Foundry](https://foundry.paradigm.xyz)** - Solidity testing framework (with Etherlink support)
-- **[Truffle](https://trufflesuite.com)** - Development environment for Ethereum software
 - **[Viem](https://viem.sh)** - TypeScript interface for Ethereum (with Etherlink support)
 
 ### Wallet Infrastructure
@@ -117,7 +115,6 @@
 
 ### Onramp & Payment
 - **[Transak](https://transak.com)** - Seamless fiat-to-crypto onboarding solution
-- **[Hashleap](https://hashleap.io/)** - Web3 payment infrastructure focusing on user-friendly crypto transactions
 - **[Kredete](https://kredete.com/)** - Financial app leveraging blockchain for cross-border payments and credit building
 - **[Secret Network](https://scrt.network)** - Privacy-preserving blockchain providing confidential computing for Etherlink
 
@@ -211,7 +208,7 @@
 - **[Layer3](https://layer3.xyz/)** - Discovery platform featuring interactive quests for the Etherlink community
 - **[TaskOn](https://www.taskon.xyz/)** - Web3 task platform and bounty system for community growth
 - **[Homebase](https://homebase.xyz/)** - DAO management and community governance platform
-- **[GroupFi](https://groupfi.xyz)** - Feeless, on-chain messaging protocol for decentralized social interaction
+- **[GroupFi](https://groupfi.ai)** - Feeless, on-chain messaging protocol for decentralized social interaction
 - **[Questflow](https://questflow.ai/)** - Orchestration layer for a multi-agent AI economy
 - **[Zealy](https://zealy.io/)** - Community engagement platform with quest-based growth tools
 
