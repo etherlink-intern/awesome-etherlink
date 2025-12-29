@@ -46,8 +46,8 @@
 
 ### Community
 - **[Discord](https://discord.gg/etherlink)** - Official Discord community
-- **[X/Twitter](https://x.com/etherlink_com)** - Official Twitter account
-- **[Blog](https://blog.etherlink.com/)** - Official blog with updates
+- **[X/Twitter](https://x.com/etherlink)** - Official Twitter account
+- **[Blog](https://blog.etherlinkinsights.com/)** - Official blog with updates
 
 ## Core Infrastructure
 
@@ -58,7 +58,7 @@
 
 ### Indexing & Querying
 - **[The Graph](https://thegraph.com)** - Decentralized indexing and query layer for blockchain data
-- **[SQD](https://sqd.network)** - Subsquid decentralized data indexing solution
+- **[SQD](https://subsquid.io)** - Subsquid decentralized data indexing solution
 - **[Subquery](https://www.subquery.network/indexer)** - Open-source indexer supporting Etherlink and multiple blockchains
 - **[DipDup](https://dipdup.io)** - Indexing framework for blockchain data
 
