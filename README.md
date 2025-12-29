@@ -9,7 +9,7 @@
 
 ---
 
-*Start exploring the comprehensive list below... This directory contains **80+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
+*Start exploring the comprehensive list below... This directory contains **85+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/169287244?s=200&v=4" alt="Etherlink Logo" width="120">
@@ -29,6 +29,7 @@
 - [NFT & Collectibles](#nft--collectibles)
 - [Wallets](#wallets)
 - [Identity & Social](#identity--social)
+- [Communication Tools](#communication-tools)
 - [Cross-chain & Bridges](#cross-chain--bridges)
 - [Analytics & Monitoring](#analytics--monitoring)
 - [AI & DePIN](#ai--depin)
@@ -53,10 +54,12 @@
 ### Oracles
 - **[Pyth Network](https://pyth.network)** - Real-time market data feeds across multiple asset classes
 - **[Redstone](https://redstone.finance)** - Decentralized oracle network for custom data feeds
+- **[Acelon](https://acelon.io)** - Price feed provider for stXTZ tokens and staking pool data
 
 ### Indexing & Querying
 - **[The Graph](https://thegraph.com)** - Decentralized indexing and query layer for blockchain data
 - **[SQD](https://sqd.network)** - Subsquid decentralized data indexing solution
+- **[Subquery](https://www.subquery.network/indexer)** - Open-source indexer supporting Etherlink and multiple blockchains
 - **[DipDup](https://dipdup.io)** - Indexing framework for blockchain data
 
 ### Messaging & Interoperability
@@ -80,6 +83,7 @@
 
 ### Development Frameworks
 - **[Thirdweb](https://thirdweb.com)** - Complete framework for building web3 applications
+- **[Tezos Unity SDK](https://docs.tezos.com/unity)** - Unity SDK for blockchain integration with Etherlink support
 - **[Sequence](https://sequence.xyz)** - Gaming-focused wallet and infrastructure platform
 - **[Google Cloud](https://cloud.google.com/blockchain)** - Cloud infrastructure for blockchain development
 - **[GroupFi](https://groupfi.xyz)** - Privacy-focused blockchain infrastructure
@@ -107,6 +111,11 @@
 - **[Secret Network](https://scrt.network)** - Privacy-preserving blockchain with cross-chain support
 
 ## DeFi Protocols
+
+### Centralized Exchanges
+- **[AscendEx](https://ascendex.com)** - Centralized cryptocurrency exchange supporting XTZ trading
+- **[Gate](https://www.gate.com/)** - Global digital asset trading platform with Etherlink support
+- **[MEXC](https://www.mexc.com/)** - Leading crypto exchange with XTZ/Etherlink markets
 
 ### Decentralized Exchanges
 - **[Iguanadex](https://iguanadex.com/)** - Leading decentralized exchange on Etherlink
@@ -170,6 +179,7 @@
 - **[Coinbase Wallet](https://wallet.coinbase.com/)** - Self-custody wallet with cross-chain capabilities
 - **[Trust Wallet](https://trustwallet.com/)** - Mobile and desktop crypto wallet
 - **[Safe](https://safe.global/)** - Multi-signature smart wallet solution
+- **[Safe Etherlink](https://safe.etherlink.com)** - Multi-signature smart wallet implementation for Etherlink
 - **[Sequence](https://sequence.xyz/)** - Gaming-focused smart wallet
 - **[Magic.link](https://magic.link/)** - Wallet-as-a-service solution
 
@@ -189,6 +199,12 @@
 - **[OnChainGM](https://www.onchaingm.com/)** - Web3 social interaction platform
 - **[Zealy](https://zealy.io/)** - Web3 community growth and engagement platform featuring quest-based campaigns for community building and user onboarding. Offers performance-based influencer marketing with guaranteed rewards, automated USDC and token payouts, trading competitions, creator quests, and comprehensive community management tools. Users complete quests to earn cryptocurrency, tokens, and digital rewards. Provides API for developer integrations, Discord automation, and detailed engagement metrics. Used by major brands like Michelin, FIAT, and gaming projects including Star Atlas and MEXC. Documentation: [docs.zealy.io](https://docs.zealy.io) | Twitter: [@zealy_io](https://twitter.com/zealy_io)
 - **[FDN](https://fdn.money/)** - Foundation for decentralized networks
+
+## Communication Tools
+
+### Messaging & Social Integration
+- **[t:connect](https://t-connect.gitbook.io)** - Telegram Mini Apps SDK enabling seamless blockchain interaction within Telegram
+
 
 ## AI & DePIN
 
