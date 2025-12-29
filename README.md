@@ -2,11 +2,6 @@
 
 > **Curated directory of the entire Etherlink ecosystem**
 
-![GitHub stars](https://img.shields.io/github/stars/etherlink-intern/awesome-etherlink?style=social)
-![GitHub forks](https://img.shields.io/github/forks/etherlink-intern/awesome-etherlink?style=social)
-![GitHub issues](https://img.shields.io/github/issues/etherlink-intern/awesome-etherlink)
-![GitHub license](https://img.shields.io/github/license/etherlink-intern/awesome-etherlink)
-
 ---
 
 *Start exploring the comprehensive list below... This directory contains **100+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
