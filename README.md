@@ -168,17 +168,15 @@
 ### Casual & Social Gaming
 - **[Appleville](https://appleville.xyz/)** - Idle farming web game on Etherlink where players plant, harvest crops, and earn real rewards
 - **[Uranium Miner](https://geturanium.io/)** - Competitive mining game where players collect Uranium Shards and refine them into crypto
-- **[Seas of Linkardia](https://linkardia.xyz/)** - Strategic RPG with a focus on immersive onboarding and community quests
 - **[Bit Hotel](https://bithotel.io/)** - Social RPG and metaverse where players can meet friends and compete in mini-games
 - **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain-powered seasonal reward pools
-- **[Etherlink Bounce To Earn](https://bounce.etherlink.com/)** - Engaging "Bounce To Earn" GameFi experience with instant rewards
 - **[UHT](https://uht.gamify.io/)** - Health-focused platform that gamifies daily exercises and healthy living
 - **[Battlerise](https://battlerise.com/)** - Tactical strategy battle game with collectible hero NFTs
 - **[BattleTabs](https://battletabs.com/)** - Browser-based tactical combat game with seamless blockchain integration
 - **[MIOMl GAME](https://miomi.game)** - Web3 eSports platform featuring real money tournaments for Counter Strike and DOTA II
 
 ### Gaming Infrastructure
-- **[Ladder Protocol](https://ladder.xyz/)** - Decentralized AMM protocol providing instant liquidity for gaming NFTs
+- **[Ladder Protocol](https://ladder.top/)** - Decentralized AMM protocol providing instant liquidity for gaming NFTs
 
 ## NFT & Collectibles
 
