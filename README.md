@@ -9,7 +9,7 @@
 
 ---
 
-*Start exploring the comprehensive list below... This directory contains **115+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
+*Start exploring the comprehensive list below... This directory contains **0+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/169287244?s=200&v=4" alt="Etherlink Logo" width="120">
@@ -85,7 +85,7 @@
 - **[Thirdweb](https://thirdweb.com)** - Complete framework for building web3 applications
 - **[Tezos Unity SDK](https://docs.tezos.com/unity)** - Unity SDK for blockchain integration with Etherlink support
 - **[Sequence](https://sequence.xyz)** - Gaming-focused wallet and infrastructure platform
-- **[Google Cloud](https://cloud.google.com/blockchain)** - Cloud infrastructure for blockchain development
+- **[Google Cloud](https://cloud.google.com)** - Cloud infrastructure for blockchain development
 - **[GroupFi](https://groupfi.xyz)** - Privacy-focused blockchain infrastructure
 
 ### Smart Contract Development
@@ -93,7 +93,6 @@
 - **[Foundry](https://foundry.paradigm.xyz)** - Solidity testing framework (with Etherlink support)
 - **[Truffle](https://trufflesuite.com)** - Development environment for Ethereum software
 - **[Viem](https://viem.sh)** - TypeScript interface for Ethereum (with Etherlink support)
-- **[Alloy Chains](https://github.com/shazow/alloy-chains)** - Chain data for Alloy/Ethers.rs libraries
 
 ### Analytics & Data
 - **[Octav](https://octav.fi)** - Portfolio analytics and tracking platform
@@ -101,8 +100,7 @@
 - **[Chainspect](https://chainspect.io)** - Blockchain analytics and monitoring platform
 
 ### Integration Services
-- **[DappRadar](https://dappradar.com)** - DApp analytics and discovery platform
-- **[OnChainVision Labs](https://onchainvision.io)** - Blockchain data analytics and visualization
+- **[DappRadar](https://www.dappradar.io)** - DApp analytics and discovery platform
 - **[Transak](https://transak.com)** - Fiat-to-crypto onboarding solution
 - **[Web3Auth](https://web3auth.io)** - User-friendly wallet authentication
 
@@ -113,16 +111,14 @@
 
 ### Centralized Exchanges
 - **[AscendEx](https://ascendex.com)** - Centralized cryptocurrency exchange supporting XTZ trading
-- **[Gate](https://www.gate.com/)** - Global digital asset trading platform with Etherlink support
-- **[MEXC](https://www.mexc.com/)** - Leading crypto exchange with XTZ/Etherlink markets
 
 ### Decentralized Exchanges
 - **[Iguanadex](https://iguanadex.com/)** - Leading decentralized exchange on Etherlink
-- **[Hanji](https://hanji.finance/)** - Innovative yield farming and staking protocol
 - **[Oku Trade](https://oku.trade/)** - DeFi trading interface supporting multiple protocols
-- **[Curve Finance](https://curve.fi/)** - Stablecoin exchange and AMM protocol
+- **[Curve Finance](https://curve.fi)** - Stablecoin exchange and AMM protocol
 - **[KyberSwap](https://kyberswap.com/)** - Dynamic market maker and DEX aggregator
 - **[Jumper.Exchange](https://jumper.exchange/)** - Cross-chain liquidity aggregation
+- **[Hanji](https://hanji.io)** - On-chain order book exchange (CLOB) with zero fees for limit orders and ultra-low gas costs on Etherlink
 
 ### Lending & Borrowing
 - **[Superlend](https://superlend.io/)** - Advanced lending and borrowing aggregator
@@ -130,14 +126,14 @@
 
 ### Liquidity & Yield
 - **[Organic Growth](https://www.organicgrowth.finance/)** - DeFi yield optimization protocol
-- **[Apple Farm](https://apple.farm/)** - Yield farming platform with significant rewards ($3M+ TVL)
+- **[Apple Farm](https://www.applefarm.xyz)** - DeFi yield farming platform on Etherlink with over $3M in rewards, featuring staking and liquidity provision opportunities
 
 ### Asset Management
 - **[TrustSwap](https://trustswap.org/)** - Multi-service DeFi platform
 - **[Team Finance](https://team.finance/)** - Token launchpad and liquidity locking
-- **[xU3O8](https://www.xu3o8.com/)** - Tokenized uranium trading platform
 - **[Spiko](https://spiko.io/)** - Tokenized real-world assets
 - **[IDRX Stablecoin](https://www.idrx.io/)** - Digital USD stablecoin
+- **[xU3O8](https://uranium.io)** - RWA tokenization platform for fractional ownership of physical uranium (U3O8) with regulatory compliance and real asset backing
 
 ### Prediction & Gaming DeFi
 - **[5050](https://5050.fi/)** - Decentralized prediction market platform
@@ -150,14 +146,12 @@
 ### AAA Gaming Titles
 - **[Reaper Actual](https://reaperactual.com/)** - AAA MMOFPS tactical shooter ($30.5M funding)
 - **[Pikes Arena](https://pikesarena.com/)** - Mobile PvP combat arena game
-- **[Cricket Champions](https://cricketchampions.io/)** - Professional cricket strategy simulation
 
 ### Casual & Social Gaming
 - **[Battlerise](https://battlerise.com/)** - Strategy battle game
-- **[Appleville](https://appleville.io/)** - Farming and casual simulation game
-- **[Uranium Miner](https://play.uranium.io/)** - Resource management and mining game
 - **[BattleTabs](https://battletabs.com/)** - Browser-based tactical combat game
 - **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain rewards
+- **[MIOMl GAME](https://miomi.game)** - Web3 eSports platform for competitive gaming with real money tournaments across Counter Strike, DOTA II, and more
 
 ### Gaming Infrastructure
 
@@ -167,14 +161,12 @@
 - **[Rarible](https://rarible.com/)** - Creator-centric NFT marketplace with Etherlink support
 
 ### NFT Tools & Infrastructure
-- **[MIOMl GAME](https://www.miomi.xyz/)** - NFT-based gaming and collectibles platform
 
 ## Wallets
 
 ### Browser & Desktop Wallets
 - **[MetaMask](https://metamask.io/)** - Leading browser extension wallet with Etherlink support
 - **[Coinbase Wallet](https://wallet.coinbase.com/)** - Self-custody wallet with cross-chain capabilities
-- **[Trust Wallet](https://trustwallet.com/)** - Mobile and desktop crypto wallet
 - **[Safe](https://safe.global/)** - Multi-signature smart wallet solution
 - **[Sequence](https://sequence.xyz/)** - Gaming-focused smart wallet
 
@@ -188,12 +180,10 @@
 
 ### Social Platforms
 - **[Layer3](https://layer3.xyz/)** - Web3 discovery and engagement platform
-- **[Open Ticketing Protocol](https://otprotocol.com/)** - Decentralized event ticketing
 - **[TaskOn](https://www.taskon.xyz/)** - Web3 task and bounty platform
 - **[Homebase](https://homebase.xyz/)** - DAO platform and community management
 - **[OnChainGM](https://www.onchaingm.com/)** - Web3 social interaction platform
 - **[Zealy](https://zealy.io/)** - Web3 community growth and engagement platform featuring quest-based campaigns for community building and user onboarding. Offers performance-based influencer marketing with guaranteed rewards, automated USDC and token payouts, trading competitions, creator quests, and comprehensive community management tools. Users complete quests to earn cryptocurrency, tokens, and digital rewards. Provides API for developer integrations, Discord automation, and detailed engagement metrics. Used by major brands like Michelin, FIAT, and gaming projects including Star Atlas and MEXC. Documentation: [docs.zealy.io](https://docs.zealy.io) | Twitter: [@zealy_io](https://twitter.com/zealy_io)
-- **[FDN](https://fdn.money/)** - Foundation for decentralized networks
 
 ## Communication Tools
 
@@ -214,13 +204,11 @@
 
 
 ### Third-party Bridges
-- **[GET Protocol Bridge](https://get-protocol.io/)** - Ticketing protocol with cross-chain capabilities
+- **[OPEN Ticketing Ecosystem](https://onopen.xyz)** - OPEN Ticketing Ecosystem - NFT ticketing infrastructure processing billions in revenue across multiple blockchains
 
 ## Analytics & Monitoring
 
 ### Blockchain Analytics
-- **[Blockscout](https://blockscout.com/)** - Open-source blockchain explorer (Etherlink deployment)
-- **[Dune Analytics](https://dune.com/)** - Community-driven data analytics platform
 
 ### Monitoring Tools
 
@@ -230,31 +218,18 @@
 - **[Rollup Bridge Indexer](https://github.com/baking-bad/rollup-bridge-indexer)** - Etherlink FA bridge backend indexer
 
 ### Developer Integrations
-- **[Viem Etherlink](https://github.com/anthonysgrove/viem)** - Etherlink integration for Viem library
 - **[CreateX](https://github.com/pcaversaccio/createx)** - Factory contract for EVM chains
-- **[Safe Python SDK](https://github.com/5afe/eth-account)** - Python SDK for Safe wallet integration
-- **[Chainlist](https://github.com/chainchain-xyz/chainlist)** - Chain network information and metadata
 
 ### Third-party Integrations
-- **[Temple Wallet](https://github.com/tztemple/templewallet-mobile)** - Mobile wallet with Etherlink support
-- **[Homebase DAO](https://github.com/SynapseFinance/dao)** - DAO platform with Etherlink integration
-- **[GET Protocol Bridge](https://github.com/getprotocol/selfmint-bridge)** - NFT ticketing bridge integration
 
 ## Resources
 
 ### Development Resources
-- **[Getting Started](https://docs.etherlink.com/developers/quick-start)** - Quick start guide for developers
-- **[RPC Endpoints](https://docs.etherlink.com/developers/rpc)** - RPC endpoints and configuration
 - **[Testnet Faucet](https://faucet.etherlink.com/)** - Get testnet tokens for development
 
 ### Tools & Utilities
-- **[Block Explorers](https://docs.etherlink.com/community/explorers)** - List of block explorers
-- **[Wallet Setup](https://docs.etherlink.com/users/wallets)** - Wallet connection guides
-- **[Bridge Guides](https://docs.etherlink.com/users/bridges)** - Cross-chain bridge tutorials
 
 ### Educational Content
-- **[Tutorials](https://docs.etherlink.com/developers/tutorials)** - Developer tutorials and guides
-- **[Best Practices](https://docs.etherlink.com/developers/best-practices)** - Development best practices
 
 ## Contributing
 
