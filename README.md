@@ -97,7 +97,7 @@
 ### Analytics & Data
 - **[Octav](https://octav.fi)** - Portfolio analytics and tracking platform
 - **[Goldsky](https://goldsky.com)** - Real-time streaming data infrastructure
-- **[Chainspect](https://chainspect.io)** - Blockchain analytics and monitoring platform
+- **[Chainspect](https://chainspect.app)** - Blockchain analytics and monitoring platform
 
 ### Integration Services
 - **[DappRadar](https://www.dappradar.io)** - DApp analytics and discovery platform
