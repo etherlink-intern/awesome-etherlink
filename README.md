@@ -25,6 +25,14 @@
 - [Core Infrastructure](#core-infrastructure)
 - [Developer Tools](#developer-tools)
 - [DeFi Protocols](#defi-protocols)
+    - [Centralized Exchanges](#centralized-exchanges)
+    - [Decentralized Exchanges](#decentralized-exchanges)
+    - [Lending & Borrowing](#lending--borrowing)
+    - [Liquidity & Yield](#liquidity--yield)
+    - [Asset Management](#asset-management)
+    - [Real World Assets (RWA)](#real-world-assets-rwa)
+    - [Prediction & Gaming DeFi](#prediction--gaming-defi)
+    - [Cross-chain DeFi](#cross-chain-defi)
 - [Gaming & Metaverse](#gaming--metaverse)
 - [NFT & Collectibles](#nft--collectibles)
 - [Wallets](#wallets)
@@ -32,6 +40,8 @@
 - [Communication Tools](#communication-tools)
 - [Cross-chain & Bridges](#cross-chain--bridges)
 - [Analytics & Monitoring](#analytics--monitoring)
+    - [Blockchain Analytics](#blockchain-analytics)
+    - [Block Explorers](#block-explorers)
 - [AI & DePIN](#ai--depin)
 - [Official GitHub Projects](#official-github-projects)
 - [Resources](#resources)
@@ -94,10 +104,12 @@
 - **[Truffle](https://trufflesuite.com)** - Development environment for Ethereum software
 - **[Viem](https://viem.sh)** - TypeScript interface for Ethereum (with Etherlink support)
 
+### Wallet Infrastructure
+- **[Magic.link](https://magic.link)** - Enterprise-grade wallet infrastructure for Web3 applications with passwordless authentication
+
 ### Analytics & Data
 - **[Octav](https://octav.fi)** - Portfolio analytics and tracking platform
 - **[Goldsky](https://goldsky.com)** - Real-time streaming data infrastructure
-- **[Chainspect](https://chainspect.app)** - Blockchain analytics and monitoring platform
 
 ### Integration Services
 - **[DappRadar](https://www.dappradar.io)** - DApp analytics and discovery platform
@@ -131,9 +143,11 @@
 ### Asset Management
 - **[TrustSwap](https://trustswap.org/)** - Multi-service DeFi platform
 - **[Team Finance](https://team.finance/)** - Token launchpad and liquidity locking
-- **[Spiko](https://spiko.io/)** - Tokenized real-world assets
 - **[IDRX Stablecoin](https://www.idrx.io/)** - Digital USD stablecoin
-- **[xU3O8](https://uranium.io)** - RWA tokenization platform for fractional ownership of physical uranium (U3O8) with regulatory compliance and real asset backing
+
+### Real World Assets (RWA)
+- **[Uranium](https://uranium.io/en)** - RWA tokenization platform for fractional ownership of physical uranium (U3O8) with regulatory compliance and real asset backing
+- **[Spiko](https://spiko.io/)** - Tokenized real-world assets
 
 ### Prediction & Gaming DeFi
 - **[5050](https://5050.fi/)** - Decentralized prediction market platform
@@ -148,6 +162,8 @@
 - **[Pikes Arena](https://pikesarena.com/)** - Mobile PvP combat arena game
 
 ### Casual & Social Gaming
+- **[Appleville](https://appleville.xyz/)** - Idle farming game on Etherlink where players plant, harvest crops, and earn rewards in a relaxing Web3 environment
+- **[Uranium Miner](https://geturanium.io/)** - Addictive mining game on Etherlink allowing players to collect Uranium Shards and refine them into crypto rewards
 - **[Battlerise](https://battlerise.com/)** - Strategy battle game
 - **[BattleTabs](https://battletabs.com/)** - Browser-based tactical combat game
 - **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain rewards
@@ -209,8 +225,11 @@
 ## Analytics & Monitoring
 
 ### Blockchain Analytics
+- **[Dune Analytics](https://dune.com)** - Web-based platform for querying public blockchain data and creating cross-chain dashboards
+- **[Chainspect](https://chainspect.app/)** - Multi-chain analytics platform providing real-time insights and comparative network metrics
 
-### Monitoring Tools
+### Block Explorers
+- **[Blockscout](https://blockscout.com)** - Open-source, high-performance blockchain explorer supporting multiple EVM networks
 
 
 - **[Etherlink Bridge](https://github.com/baking-bad/etherlink-bridge)** - Smart contracts for Etherlink bridging transport protocol by Baking Bad
