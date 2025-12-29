@@ -9,7 +9,7 @@
 
 ---
 
-*Start exploring the comprehensive list below... This directory contains **85+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
+*Start exploring the comprehensive list below... This directory contains **100+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/169287244?s=200&v=4" alt="Etherlink Logo" width="120">
