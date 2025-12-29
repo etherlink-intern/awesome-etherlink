@@ -86,6 +86,8 @@
 - **[Ankr](https://www.ankr.com)** - Distributed node infrastructure and APIs
 - **[BlockPI](https://blockpi.io)** - High-performance blockchain RPC service
 - **[Chainstack](https://chainstack.com)** - Enterprise-grade blockchain infrastructure platform
+- **[GetBlock](https://getblock.io)** - Reliable RPC node provider for Etherlink and Tezos with WebSocket support
+- **[NOWNodes](https://nownodes.io)** - Scalable blockchain infrastructure provide with high uptime for Etherlink
 - **[Spectrum](https://spectrum.fi)** - Node infrastructure and DeFi solutions
 - **[Zeeve](https://www.zeeve.io)** - Blockchain infrastructure as a service
 
@@ -106,18 +108,18 @@
 
 ### Wallet Infrastructure
 - **[Magic.link](https://magic.link)** - Enterprise-grade wallet infrastructure for Web3 applications with passwordless authentication
+- **[Web3Auth](https://web3auth.io)** - Simple and secure wallet authentication for mainstream users
 
 ### Analytics & Data
+- **[DappRadar](https://www.dappradar.io)** - Leading DApp analytics and discovery platform for the Web3 ecosystem
 - **[Octav](https://octav.fi)** - Portfolio analytics and tracking platform
 - **[Goldsky](https://goldsky.com)** - Real-time streaming data infrastructure
 
-### Integration Services
-- **[DappRadar](https://www.dappradar.io)** - DApp analytics and discovery platform
-- **[Transak](https://transak.com)** - Fiat-to-crypto onboarding solution
-- **[Web3Auth](https://web3auth.io)** - User-friendly wallet authentication
-
 ### Onramp & Payment
-- **[Secret Network](https://scrt.network)** - Privacy-preserving blockchain with cross-chain support
+- **[Transak](https://transak.com)** - Seamless fiat-to-crypto onboarding solution
+- **[Hashleap](https://hashleap.io/)** - Web3 payment infrastructure focusing on user-friendly crypto transactions
+- **[Kredete](https://kredete.com/)** - Financial app leveraging blockchain for cross-border payments and credit building
+- **[Secret Network](https://scrt.network)** - Privacy-preserving blockchain providing confidential computing for Etherlink
 
 ## DeFi Protocols
 
@@ -126,24 +128,28 @@
 
 ### Decentralized Exchanges
 - **[Iguanadex](https://iguanadex.com/)** - Leading decentralized exchange on Etherlink
-- **[Oku Trade](https://oku.trade/)** - DeFi trading interface supporting multiple protocols
-- **[Curve Finance](https://curve.fi)** - Stablecoin exchange and AMM protocol
-- **[KyberSwap](https://kyberswap.com/)** - Dynamic market maker and DEX aggregator
-- **[Jumper.Exchange](https://jumper.exchange/)** - Cross-chain liquidity aggregation
-- **[Hanji](https://hanji.io)** - On-chain order book exchange (CLOB) with zero fees for limit orders and ultra-low gas costs on Etherlink
+- **[Hanji](https://hanji.io)** - High-performance on-chain Central Limit Order Book (CLOB) DEX with zero fees for limit orders
+- **[TachySwap](https://tachyswap.org/)** - Efficient AMM-based decentralized exchange for seamless token swaps
+- **[Oku Trade](https://oku.trade/)** - Advanced DeFi trading interface with Uniswap v3 functionality and Morpho integration
+- **[Curve Finance](https://curve.fi)** - Optimized stablecoin exchange and automated market maker protocol
+- **[KyberSwap](https://kyberswap.com/)** - Next-generation DEX aggregator and liquidity protocol
+- **[Jumper.Exchange](https://jumper.exchange/)** - Comprehensive cross-chain liquidity and bridge aggregator
 
 ### Lending & Borrowing
-- **[Superlend](https://superlend.io/)** - Advanced lending and borrowing aggregator
-- **[Morpho Protocol](https://www.morpho.io/)** - Efficient lending protocol (via Oku integration)
+- **[Superlend](https://superlend.io/)** - Versatile lending and borrowing aggregator for the Tezos and Etherlink ecosystems
+- **[Plend](https://plend.xyz/)** - Pure DeFi lending and borrowing platform built by the Plenty Network team
+- **[Morpho Protocol](https://www.morpho.io/)** - High-efficiency lending primitive integrated via Oku
+- **[Gearbox Protocol](https://gearbox.fi)** - Generalized leverage protocol for active traders and yield farmers
 
 ### Liquidity & Yield
-- **[Organic Growth](https://www.organicgrowth.finance/)** - DeFi yield optimization protocol
+- **[Organic Growth](https://www.organicgrowth.wtf/)** - DeFi yield optimization protocol
 - **[Apple Farm](https://www.applefarm.xyz)** - DeFi yield farming platform on Etherlink with over $3M in rewards, featuring staking and liquidity provision opportunities
 
-### Asset Management
-- **[TrustSwap](https://trustswap.org/)** - Multi-service DeFi platform
-- **[Team Finance](https://team.finance/)** - Token launchpad and liquidity locking
-- **[IDRX Stablecoin](https://www.idrx.io/)** - Digital USD stablecoin
+### Asset Management & Yield
+- **[Midas](https://midas.app/)** - Institutional-grade platform for tokenized assets and delta-neutral yield strategies
+- **[TrustSwap](https://trustswap.org/)** - Comprehensive suite of DeFi services including token locks and escrow
+- **[Team Finance](https://team.finance/)** - Enterprise-grade token management, liquidity locking, and launchpad services
+- **[IDRX Stablecoin](https://www.idrx.io/)** - Rupiah-collateralized stablecoin for digital payments
 
 ### Real World Assets (RWA)
 - **[Uranium](https://uranium.io/en)** - RWA tokenization platform for fractional ownership of physical uranium (U3O8) with regulatory compliance and real asset backing
@@ -153,28 +159,35 @@
 - **[5050](https://5050.fi/)** - Decentralized prediction market platform
 
 ### Cross-chain DeFi
-- **[Lombard Finance](https://lombard.finance/)** - LBTC cross-chain liquidity protocol
+- **[Lombard Finance](https://lombard.finance/)** - Liquid Bitcoin (LBTC) protocol bringing native BTC yield to Etherlink
 
 ## Gaming & Metaverse
 
 ### AAA Gaming Titles
-- **[Reaper Actual](https://reaperactual.com/)** - AAA MMOFPS tactical shooter ($30.5M funding)
-- **[Pikes Arena](https://pikesarena.com/)** - Mobile PvP combat arena game
+- **[Reaper Actual](https://reaperactual.com/)** - AAA MMOFPS tactical shooter utilizing high-performance blockchain infrastructure ($30.5M funding)
+- **[Pikes Arena](https://pikesarena.com/)** - Fast-paced mobile PvP combat arena game with on-chain assets
+- **[Sugarverse](https://sugarverse.io/)** - Cross-platform gaming universe featuring multiple casual games and a focus on community-driven rewards
 
 ### Casual & Social Gaming
-- **[Appleville](https://appleville.xyz/)** - Idle farming game on Etherlink where players plant, harvest crops, and earn rewards in a relaxing Web3 environment
-- **[Uranium Miner](https://geturanium.io/)** - Addictive mining game on Etherlink allowing players to collect Uranium Shards and refine them into crypto rewards
-- **[Battlerise](https://battlerise.com/)** - Strategy battle game
-- **[BattleTabs](https://battletabs.com/)** - Browser-based tactical combat game
-- **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain rewards
-- **[MIOMl GAME](https://miomi.game)** - Web3 eSports platform for competitive gaming with real money tournaments across Counter Strike, DOTA II, and more
+- **[Appleville](https://appleville.xyz/)** - Idle farming web game on Etherlink where players plant, harvest crops, and earn real rewards
+- **[Uranium Miner](https://geturanium.io/)** - Competitive mining game where players collect Uranium Shards and refine them into crypto
+- **[Seas of Linkardia](https://linkardia.xyz/)** - Strategic RPG with a focus on immersive onboarding and community quests
+- **[Bit Hotel](https://bithotel.io/)** - Social RPG and metaverse where players can meet friends and compete in mini-games
+- **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain-powered seasonal reward pools
+- **[Etherlink Bounce To Earn](https://bounce.etherlink.com/)** - Engaging "Bounce To Earn" GameFi experience with instant rewards
+- **[UHT](https://uht.gamify.io/)** - Health-focused platform that gamifies daily exercises and healthy living
+- **[Battlerise](https://battlerise.com/)** - Tactical strategy battle game with collectible hero NFTs
+- **[BattleTabs](https://battletabs.com/)** - Browser-based tactical combat game with seamless blockchain integration
+- **[MIOMl GAME](https://miomi.game)** - Web3 eSports platform featuring real money tournaments for Counter Strike and DOTA II
 
 ### Gaming Infrastructure
+- **[Ladder Protocol](https://ladder.xyz/)** - Decentralized AMM protocol providing instant liquidity for gaming NFTs
 
 ## NFT & Collectibles
 
 ### Marketplaces
-- **[Rarible](https://rarible.com/)** - Creator-centric NFT marketplace with Etherlink support
+- **[Rarible](https://rarible.com/)** - Leading aggregated NFT marketplace with native Etherlink support
+- **[akaSwap](https://akaswap.com/)** - Vibrant NFT marketplace for artists and creators within the Tezos ecosystem
 
 ### NFT Tools & Infrastructure
 
@@ -194,12 +207,13 @@
 ### Digital Identity
 - **[idOS](https://idos.network/)** - Decentralized identity and reputation system
 
-### Social Platforms
-- **[Layer3](https://layer3.xyz/)** - Web3 discovery and engagement platform
-- **[TaskOn](https://www.taskon.xyz/)** - Web3 task and bounty platform
-- **[Homebase](https://homebase.xyz/)** - DAO platform and community management
-- **[OnChainGM](https://www.onchaingm.com/)** - Web3 social interaction platform
-- **[Zealy](https://zealy.io/)** - Web3 community growth and engagement platform featuring quest-based campaigns for community building and user onboarding. Offers performance-based influencer marketing with guaranteed rewards, automated USDC and token payouts, trading competitions, creator quests, and comprehensive community management tools. Users complete quests to earn cryptocurrency, tokens, and digital rewards. Provides API for developer integrations, Discord automation, and detailed engagement metrics. Used by major brands like Michelin, FIAT, and gaming projects including Star Atlas and MEXC. Documentation: [docs.zealy.io](https://docs.zealy.io) | Twitter: [@zealy_io](https://twitter.com/zealy_io)
+### Social & Community
+- **[Layer3](https://layer3.xyz/)** - Discovery platform featuring interactive quests for the Etherlink community
+- **[TaskOn](https://www.taskon.xyz/)** - Web3 task platform and bounty system for community growth
+- **[Homebase](https://homebase.xyz/)** - DAO management and community governance platform
+- **[GroupFi](https://groupfi.xyz)** - Feeless, on-chain messaging protocol for decentralized social interaction
+- **[Questflow](https://questflow.ai/)** - Orchestration layer for a multi-agent AI economy
+- **[Zealy](https://zealy.io/)** - Community engagement platform with quest-based growth tools
 
 ## Communication Tools
 
