@@ -134,7 +134,6 @@
 
 ### Lending & Borrowing
 - **[Superlend](https://superlend.io)** - Lending aggregator for Tezos and Etherlink
-- **[Plend](https://plend.xyz)** - DeFi lending platform by Plenty Network
 - **[Morpho Protocol](https://morpho.io)** - High-efficiency lending primitive
 - **[Gearbox Protocol](https://gearbox.fi)** - Generalized leverage protocol
 
