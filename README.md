@@ -236,18 +236,15 @@
 - **[Octav](https://octav.fi/)** - Portfolio analytics and tracking
 - **[DappRadar](https://dappradar.com/)** - DApp analytics and rankings
 
-## Official GitHub Projects
+## Official Source Code
 
-### Core Projects (etherlinkcom)
-- **[Documentation](https://github.com/etherlinkcom/documentation)** - Official documentation repository
-- **[Website](https://github.com/etherlinkcom/website)** - Official website source code
-- **[Governance](https://github.com/etherlinkcom/etherlink-governance)** - Governance proposals and contracts
-- **[OFTez](https://github.com/etherlinkcom/OFTez)** - Omnichain Fungible Token for Tezos
+- **[Tezos/Etherlink on GitLab](https://gitlab.com/tezos/tezos/-/tree/master/etherlink)** - Complete Etherlink source code, documentation, and core smart contracts on the official Tezos GitLab
+- **[Governance](https://gitlab.com/tezos/tezos/-/tree/master/etherlink)** - Governance proposals and contracts
 
-### Bridge Infrastructure (baking-bad)
-- **[Bridge Contracts](https://github.com/baking-bad/etherlink-evm-contracts)** - EVM bridge smart contracts
-- **[TypeScript SDK](https://github.com/baking-bad/etherlink-ts-sdk)** - TypeScript software development kit
-- **[Bridge Frontend](https://github.com/baking-bad/etherlink-ts-bridge)** - Web interface for bridge operations
+### Bridge Infrastructure
+- **[Etherlink Bridge](https://github.com/baking-bad/etherlink-bridge)** - Smart contracts for Etherlink bridging transport protocol by Baking Bad
+
+- **[Rollup Bridge Indexer](https://github.com/baking-bad/rollup-bridge-indexer)** - Etherlink FA bridge backend indexer
 
 ### Developer Integrations
 - **[Viem Etherlink](https://github.com/anthonysgrove/viem)** - Etherlink integration for Viem library
