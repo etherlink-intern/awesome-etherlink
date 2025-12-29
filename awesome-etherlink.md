@@ -176,12 +176,13 @@
 - **[TaskOn](https://www.taskon.xyz/)** - Web3 task and bounty platform
 - **[Homebase](https://homebase.xyz/)** - DAO platform and community management
 - **[OnChainGM](https://www.onchaingm.com/)** - Web3 social interaction platform
+- **[Zealy](https://zealy.io/)** - Web3 community growth and engagement platform featuring quest-based campaigns for community building and user onboarding. Offers performance-based influencer marketing with guaranteed rewards, automated USDC and token payouts, trading competitions, creator quests, and comprehensive community management tools. Users complete quests to earn cryptocurrency, tokens, and digital rewards. Provides API for developer integrations, Discord automation, and detailed engagement metrics. Used by major brands like Michelin, FIAT, and gaming projects including Star Atlas and MEXC. Documentation: [docs.zealy.io](https://docs.zealy.io) | Twitter: [@zealy_io](https://twitter.com/zealy_io)
 - **[FDN](https://fdn.money/)** - Foundation for decentralized networks
 
 ## AI & DePIN
 
 ### AI Projects
-- **[Sogni AI](https://sogni.ai/)** - AI-powered creative and content platform
+- **[Sogni AI](https://www.sogni.ai)** - DePIN (Decentralized Physical Infrastructure Network) for Creative AI featuring a privacy-focused decentralized GPU network. Offers Sogni Supernet protocol, advanced AI image creation tools (Studio Pro, Pocket, Web), and allows workers to share computing power and earn SOGNI tokens. Supports ControlNets, generates up to 512 images simultaneously with 176x faster speeds, available on Mac/iPhone/iPad/Web, includes TypeScript/JavaScript SDK, and has partnerships with major VCs. Documentation: [docs.sogni.ai](https://docs.sogni.ai) | GitHub: [Sogni-AI](https://github.com/Sogni-AI) | Twitter: [@sogni_protocol](https://twitter.com/sogni_protocol)
 
 ## Cross-chain & Bridges
 
