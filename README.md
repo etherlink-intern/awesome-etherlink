@@ -9,7 +9,7 @@
 
 ---
 
-*Start exploring the comprehensive list below... This directory contains **85+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
+*Start exploring the comprehensive list below... This directory contains **115+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/169287244?s=200&v=4" alt="Etherlink Logo" width="120">
@@ -104,7 +104,6 @@
 - **[DappRadar](https://dappradar.com)** - DApp analytics and discovery platform
 - **[OnChainVision Labs](https://onchainvision.io)** - Blockchain data analytics and visualization
 - **[Transak](https://transak.com)** - Fiat-to-crypto onboarding solution
-- **[Magic.link](https://magic.link)** - Wallet-as-a-service platform
 - **[Web3Auth](https://web3auth.io)** - User-friendly wallet authentication
 
 ### Onramp & Payment
@@ -161,8 +160,6 @@
 - **[Sugar Match](https://sugarmatch.io/)** - Match-3 puzzle game with blockchain rewards
 
 ### Gaming Infrastructure
-- **[Etherlink Builder](https://builder.etherlink.com/)** - Official development platform for games
-- **[Sequence](https://sequence.xyz/)** - Primary gaming wallet and infrastructure provider
 
 ## NFT & Collectibles
 
@@ -179,9 +176,7 @@
 - **[Coinbase Wallet](https://wallet.coinbase.com/)** - Self-custody wallet with cross-chain capabilities
 - **[Trust Wallet](https://trustwallet.com/)** - Mobile and desktop crypto wallet
 - **[Safe](https://safe.global/)** - Multi-signature smart wallet solution
-- **[Safe Etherlink](https://safe.etherlink.com)** - Multi-signature smart wallet implementation for Etherlink
 - **[Sequence](https://sequence.xyz/)** - Gaming-focused smart wallet
-- **[Magic.link](https://magic.link/)** - Wallet-as-a-service solution
 
 ### Mobile Wallets
 - **[Temple Wallet](https://templewallet.com/)** - Popular Tezos wallet with Etherlink cross-chain support
@@ -217,10 +212,6 @@
 - **[Tezos-EVM Bridge](https://bridge.tezos.com/)** - Official native bridge between Tezos and Etherlink
 - **[Etherlink EVM Bridge](https://bridge.etherlink.com/)** - Native Etherlink EVM bridge
 
-### Cross-chain Protocols
-- **[LayerZero](https://layerzero.network/)** - Omnichain protocol supporting Etherlink
-- **[Stargate](https://stargate.finance/)** - Cross-chain liquidity protocol with Etherlink support
-- **[Li.Fi](https://li.fi/)** - Unified cross-chain swapping and bridging
 
 ### Third-party Bridges
 - **[GET Protocol Bridge](https://get-protocol.io/)** - Ticketing protocol with cross-chain capabilities
@@ -230,18 +221,10 @@
 ### Blockchain Analytics
 - **[Blockscout](https://blockscout.com/)** - Open-source blockchain explorer (Etherlink deployment)
 - **[Dune Analytics](https://dune.com/)** - Community-driven data analytics platform
-- **[Chainspect](https://chainspect.io/)** - Blockchain analytics and monitoring
 
 ### Monitoring Tools
-- **[Octav](https://octav.fi/)** - Portfolio analytics and tracking
-- **[DappRadar](https://dappradar.com/)** - DApp analytics and rankings
 
-## Official Source Code
 
-- **[Tezos/Etherlink on GitLab](https://gitlab.com/tezos/tezos/-/tree/master/etherlink)** - Complete Etherlink source code, documentation, and core smart contracts on the official Tezos GitLab
-- **[Governance](https://gitlab.com/tezos/tezos/-/tree/master/etherlink)** - Governance proposals and contracts
-
-### Bridge Infrastructure
 - **[Etherlink Bridge](https://github.com/baking-bad/etherlink-bridge)** - Smart contracts for Etherlink bridging transport protocol by Baking Bad
 
 - **[Rollup Bridge Indexer](https://github.com/baking-bad/rollup-bridge-indexer)** - Etherlink FA bridge backend indexer
@@ -260,7 +243,6 @@
 ## Resources
 
 ### Development Resources
-- **[Official Docs](https://docs.etherlink.com/)** - Comprehensive developer documentation
 - **[Getting Started](https://docs.etherlink.com/developers/quick-start)** - Quick start guide for developers
 - **[RPC Endpoints](https://docs.etherlink.com/developers/rpc)** - RPC endpoints and configuration
 - **[Testnet Faucet](https://faucet.etherlink.com/)** - Get testnet tokens for development
@@ -271,7 +253,6 @@
 - **[Bridge Guides](https://docs.etherlink.com/users/bridges)** - Cross-chain bridge tutorials
 
 ### Educational Content
-- **[Blog](https://blog.etherlink.com/)** - Official blog with technical updates
 - **[Tutorials](https://docs.etherlink.com/developers/tutorials)** - Developer tutorials and guides
 - **[Best Practices](https://docs.etherlink.com/developers/best-practices)** - Development best practices
 
