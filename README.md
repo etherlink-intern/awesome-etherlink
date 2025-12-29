@@ -285,6 +285,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tezos Foundation for Smart Rollup technology
 - All the amazing projects building on Etherlink
 - The broader Ethereum and Layer 2 communities
+- [Awesome Etherlink by @skullzarmy](https://github.com/skullzarmy/awesome-etherlink) - Another curated list of Etherlink ecosystem resources
 
 ---
 
