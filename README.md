@@ -12,7 +12,7 @@
 *Start exploring the comprehensive list below... This directory contains **100+ projects** across DePIN, DeFi, NFTs, Gaming, and Infrastructure.*
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/169287244?s=200&v=4" alt="Etherlink Logo" width="120">
+  <img src="./etherlink-logo.svg" alt="Etherlink Logo" width="300">
 </div>
 
 > A curated list of awesome projects, tools, and resources in the Etherlink ecosystem
