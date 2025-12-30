@@ -46,7 +46,7 @@
 | Metric | Status | Source |
 | :--- | :--- | :--- |
 | **Total Value Locked (TVL)** | See Live Data | [DeFiLlama](https://defillama.com/chain/Etherlink) |
-| **Transaction Activity** | See Live Data | [Chainspect](https://chainspect.app/dashboard/etherlink) |
+| **Transaction Activity** | See Live Data | [Chainspect](https://chainspect.app/chain/etherlink) |
 | **Official Bridge** | Operational | [Etherlink Bridge](https://bridge.etherlink.com) |
 
 > [!TIP]
