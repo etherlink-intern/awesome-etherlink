@@ -16,15 +16,15 @@
 
 ## Contents
 
+- [Ecosystem Snapshot](#ecosom-snapshot)
 - [Official Resources](#official-resources)
 - [Core Infrastructure](#core-infrastructure)
 - [Developer Tools](#developer-tools)
-- [DeFi Protocols](#defi-protocols)
-    - [Centralized Exchanges](#centralized-exchanges)
-    - [Decentralized Exchanges](#decentralized-exchanges)
+- [DeFi (Aligned with DeFiLlama)](#defi)
+    - [Decentralized Exchanges (DEXs)](#decentralized-exchanges)
     - [Lending & Borrowing](#lending--borrowing)
-    - [Liquidity & Yield](#liquidity--yield)
-    - [Asset Management & Yield](#asset-management--yield)
+    - [Liquid Staking](#liquid-staking)
+    - [Yield & Asset Management](#yield--asset-management)
     - [Real World Assets (RWA)](#real-world-assets-rwa)
     - [Prediction & Gaming DeFi](#prediction--gaming-defi)
     - [Cross-chain DeFi](#cross-chain-defi)
@@ -40,6 +40,17 @@
     - [Block Explorers](#block-explorers)
 - [Official GitHub Projects](#official-github-projects)
 - [Resources](#resources)
+
+## Ecosystem Snapshot
+
+| Metric | Status | Source |
+| :--- | :--- | :--- |
+| **Total Value Locked (TVL)** | See Live Data | [DeFiLlama](https://defillama.com/chain/Etherlink) |
+| **Transaction Activity** | See Live Data | [Chainspect](https://chainspect.app/dashboard/etherlink) |
+| **Official Bridge** | Operational | [Etherlink Bridge](https://bridge.etherlink.com) |
+
+> [!TIP]
+> **Builder's Opportunity**: Etherlink's low latency (<500ms) makes it ideal for high-frequency DeFi like **Perpetual DEXs** and **Options**, which are currently underrepresented categories.
 
 ## Official Resources
 
@@ -113,10 +124,7 @@
 - **[Kredete](https://kredete.com)** - Cross-border payments and credit building
 - **[Secret Network](https://scrt.network)** - Privacy-preserving confidential computing
 
-## DeFi Protocols
-
-### Centralized Exchanges
-- **[AscendEx](https://ascendex.com)** - Centralized cryptocurrency exchange supporting XTZ trading
+## DeFi
 
 ### Decentralized Exchanges
 - **[Iguanadex](https://iguanadex.com/)** - Leading decentralized exchange on Etherlink
@@ -126,17 +134,19 @@
 - **[Curve Finance](https://curve.fi)** - Optimized stablecoin AMM
 - **[KyberSwap](https://kyberswap.com)** - DEX aggregator and liquidity protocol
 - **[Jumper.Exchange](https://jumper.exchange)** - Cross-chain liquidity aggregator
+- **[AscendEx](https://ascendex.com)** - Centralized cryptocurrency exchange (XTZ trading)
 
 ### Lending & Borrowing
 - **[Superlend](https://superlend.io)** - Lending aggregator for Tezos and Etherlink
 - **[Morpho Protocol](https://morpho.io)** - High-efficiency lending primitive
 - **[Gearbox Protocol](https://gearbox.fi)** - Generalized leverage protocol
 
-### Liquidity & Yield
+### Liquid Staking
+- **[stacy.fi](https://stacy.fi)** - Liquid staking protocol for Tezos ($stXTZ) with Etherlink integration
+
+### Yield & Asset Management
 - **[Organic Growth](https://www.organicgrowth.wtf/)** - DeFi yield optimization protocol
 - **[Apple Farm](https://applefarm.xyz)** - Yield farming with staking and LP rewards
-
-### Asset Management & Yield
 - **[Midas](https://midas.app)** - Tokenized assets and delta-neutral yield
 - **[TrustSwap](https://trustswap.org)** - Token locks, escrow, and DeFi services
 - **[Team Finance](https://team.finance)** - Token management and liquidity locking
