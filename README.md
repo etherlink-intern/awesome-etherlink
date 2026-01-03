@@ -87,6 +87,7 @@
 - **[Pimlico](https://www.pimlico.io)** - Account abstraction infrastructure
 - **[Gelato](https://www.gelato.network)** - Automated smart contract execution network
 - **[Li.Fi](https://li.fi)** - Unified cross-chain swapping and bridging
+- **[Revoke.cash](https://revoke.bubbletez.com/)** - Essential tool for managing and revoking token allowances on Etherlink
 
 ### RPC & API Providers
 - **[Ankr](https://www.ankr.com)** - Distributed node infrastructure and APIs
