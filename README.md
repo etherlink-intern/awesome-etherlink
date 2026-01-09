@@ -212,6 +212,7 @@
 - **[GroupFi](https://groupfi.ai)** - Feeless on-chain messaging protocol
 - **[Questflow](https://questflow.ai)** - Multi-agent AI orchestration layer
 - **[Zealy](https://zealy.io)** - Quest-based community engagement
+- **[Onchain Supply](https://onchainsupply.net/)** - No-code, composable toolkit for brands and communities to launch on-chain storage, identity, and engagement tools.
 
 ## Communication Tools
 
